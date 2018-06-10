@@ -1,2 +1,2 @@
 # hello-mir
-just fir getting to know with github
+It was made for getting to know with github
